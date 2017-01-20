@@ -1,7 +1,7 @@
 # SQLEntertainment
 
 An interactive command line interface program for learning SQL without installing a SQL Server.
-This program creates a database on script directory and launch an interactive shell for testing and learning SQL requests. Documentation of SQL language used (SQL is a little different betweenn database management system) is available on [SQLite Documentaion](https://www.sqlite.org/docs.html).
+This program creates a database on script directory and launch an interactive shell for testing and learning SQL requests. Documentation of SQL language used (SQL is a little different between database management system) is available on [SQLite Documentaion](https://www.sqlite.org/docs.html).
 
 Actually the code is ugly and doesn't have test.
 
